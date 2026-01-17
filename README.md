@@ -1,7 +1,7 @@
 ## 👋 Hi there!, I'm Isaac 
 ### Data Scientist | Analytics & AI Enthusiast 
 
-I am an experienced Data Scientist with 6+ years of industry experience, specializing in SQL-driven analytics, operational dashboards, and governed reporting solutions that support data-informed decision-making across business and technical teams. I have expertise in Python and SQL for data engineering and machine learning pipeline development on Google Cloud Platform (GCP), including BigQuery, enabling scalable analytics and production-ready ML workflows.
+I am an experienced Data Analyst with 5+ years of industry experience, specializing in SQL-driven analytics, operational dashboards, and governed reporting solutions that support data-informed decision-making across business and technical teams. I have expertise in Python and SQL for data engineering and machine learning pipeline development on Google Cloud Platform (GCP), including BigQuery, enabling scalable analytics and production-ready ML workflows.
 My work spans pricing and demand forecasting, NLP topic modeling, risk prediction, and data visualization, with extensive experience building internal and stakeholder-facing dashboards using Power BI and Tableau.
 I recently completed a Master’s in Analytics at Northeastern University, where I strengthened my foundation in end-to-end machine learning, advanced analytics, data engineering, and AI systems, with a strong emphasis on translating complex data into measurable business impact. I am eager to learn from you too.
 
