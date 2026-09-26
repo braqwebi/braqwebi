@@ -4,7 +4,7 @@
 
 I build predictive models and analytics pipelines that help organizations make better operational decisions. Before moving into data science, I spent over a decade running operations in Ghana, including fleet and procurement, HR, and a full hotel as General Manager of Ramada Resort Accra (Wyndham). That background shapes how I work: I build for the people who actually have to act on the numbers.
 
-I hold a **Master's in Analytics from Northeastern University**, where I served as Project Lead on graduate practicum work spanning transit operations, digital health, and regulatory data.
+I hold a Master's in Analytics from Northeastern University, where I served as Project Lead on graduate practicum work spanning transit operations, digital health, and regulatory data.
 
 ---
 
