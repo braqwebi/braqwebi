@@ -1,78 +1,81 @@
-## 👋 Hi there!, I'm Isaac 
-### Data Scientist | Analytics & AI Enthusiast 
+# Hi, I'm Isaac 👋
 
-I am an experienced Data Analyst with 5+ years of industry experience, specializing in SQL-driven analytics, operational dashboards, and governed reporting solutions that support data-informed decision-making across business and technical teams. I have expertise in Python and SQL for data engineering and machine learning pipeline development on Google Cloud Platform (GCP), including BigQuery, enabling scalable analytics and production-ready ML workflows.
-My work spans pricing and demand forecasting, NLP topic modeling, risk prediction, and data visualization, with extensive experience building internal and stakeholder-facing dashboards using Power BI and Tableau.
-I recently completed a Master’s in Analytics at Northeastern University, where I strengthened my foundation in end-to-end machine learning, advanced analytics, data engineering, and AI systems, with a strong emphasis on translating complex data into measurable business impact. I am eager to learn from you too.
+### Data Scientist · Machine Learning · Forecasting · Healthcare & Operations Analytics
 
----
-## 🛠️ Skills
-#### Data & Querying
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![BigQuery](https://img.shields.io/badge/BigQuery-GCP-4285F4)
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20DW-56B4E9)
-#### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-Analytics-E97627)
-![Qlik](https://img.shields.io/badge/Qlik-BI-009845)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
-#### Analytics Engineering & Automation
-![Python](https://img.shields.io/badge/Python-Analytics%20Engineering-3776AB)
-![Alteryx](https://img.shields.io/badge/Alteryx-Data%20Preparation%20%26%20Automation-1F9BD1)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-KPIs%20%26%20Governance-6A5ACD)
-#### Cloud Analytics
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-Analytics-4285F4)
-![ETL](https://img.shields.io/badge/ETL-Reporting%20Pipelines-4CAF50)
-#### Reporting Focus
-![Operational Analytics](https://img.shields.io/badge/Operational%20Analytics-KPIs-2E8B57)
-![Executive Reporting](https://img.shields.io/badge/Executive%20Reporting-Decision%20Support-8B0000)
+I build predictive models and analytics pipelines that help organizations make better operational decisions. Before moving into data science, I spent over a decade running operations in Ghana, including fleet and procurement, HR, and a full hotel as General Manager of Ramada Resort Accra (Wyndham). That background shapes how I work: I build for the people who actually have to act on the numbers.
 
+I hold a **Master's in Analytics from Northeastern University**, where I served as Project Lead on graduate practicum work spanning transit operations, digital health, and regulatory data.
 
 ---
 
-## 🛠️ Core Skills & Tools
+## 🔬 Featured Work
 
-- **Languages:** Python, SQL  
-- **Data & Analytics:** BigQuery, Pandas, NumPy, scikit-learn  
-- **BI & Visualization:** Power BI, Tableau  
-- **Cloud & ML Platforms:** Google Cloud Platform (GCP)  
-- **AI & GenAI:** Gemini, ChatGPT, Claude
-- **Use Cases:** Forecasting, NLP, Risk Modeling, Decision Support Systems  
+| Project | What it does | Stack |
+|---|---|---|
+| **Medicare Provider Fraud, Waste & Abuse Priority Model** | Built a claims dataset with external and seasonal features and compared Random Forest, Isolation Forest, Logistic Regression, and XGBoost to prioritize providers for audit | Python, R, scikit-learn, XGBoost |
+| **[MBTA On-Time Prediction Accuracy](https://github.com/braqwebi/MBTA-On-Time-Prediction-Accuracy-Analysis)** | Analyzed factors driving prediction accuracy across MBTA transit lines using linear, Lasso, and stepwise regression | R, Alteryx |
+| **Restaurant Investment Analysis (Yelp)** | Recommended restaurant locations and types using sentiment analysis, K-means clustering, and A/B testing on semi-structured review data | PySpark, Google Colab |
+| **NYPD Arrest Analysis** | Built KPI dashboards and heatmaps from NYC Open Data arrest records | Power Pivot, Tableau, Qlik |
+| **[Database Design & SQL](https://github.com/braqwebi/Database_SQL)** | Designed a relational database with ER diagram and analytical queries | SQL, MySQL |
+
+### Practicum highlights (Northeastern University)
+- Led a graduate team building **Bayesian models in R** to analyze MBTA operational efficiency and identify service bottlenecks
+- Developed and optimized **PyTorch** models for traumatic brain injury trigger detection with a digital health technology firm
+- Engineered **PySpark / SparkSQL** feature pipelines turning unstructured clinical data into model-ready datasets
+- Integrated regulatory data into a CRM platform with **Python and SQL** to support a data marketplace strategy
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Machine Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Data Engineering & Cloud**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat)
+
+**BI & Visualization**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=flat&logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Methods:** Supervised & unsupervised learning · Bayesian modeling · Deep learning (CNNs, RNNs) · Forecasting · NLP & sentiment analysis · Clustering · A/B testing · Feature engineering · ETL & data modeling · KPI design
 
 ---
 
 ## 📌 Focus Areas
-
-- Operational & Executive Analytics  
-- Machine Learning & Predictive Modeling  
-- Generative AI & Intelligent Agents  
-- Data Engineering & Governed Reporting  
-- Healthcare, Finance, and Business Analytics  
+- Predictive modeling and demand forecasting
+- Healthcare analytics and fraud/risk detection
+- Operational and executive analytics
+- Data pipelines at scale
 
 ---
 
-## 📫 Let’s Connect
+## 🎓 Education & Credentials
+- **MS, Analytics** · Northeastern University, Boston
+- **MBA** · Izmir University of Economics, Türkiye
+- **BA, Economics** · University of Ghana
+- Member, Chartered Institute of Human Resource Management, Ghana · Google Analytics
 
-Feel free to explore my repositories or reach out if you’d like to collaborate on **analytics, ML, or GenAI projects**. I am always eager to learn something new!!
+---
 
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacknyinaku-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacknyinaku/)
+[![Email](https://img.shields.io/badge/Email-iknyinaku%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iknyinaku@gmail.com)
 
-
-
-
-
-
-
-<!--
-**braqwebi/braqwebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to data science and analytics roles in forecasting, healthcare, and operations.
